@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "ZalgoGen.h"
 
 ZalgoGen::ZalgoGen()
